@@ -26,3 +26,7 @@ document.querySelector('#start').onclick = function() {
         console.log(error);
       });
   };
+
+function firstSentenceCompleted () {
+
+}
