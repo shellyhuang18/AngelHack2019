@@ -1,3 +1,4 @@
+
 console.log('fired');
 
 var turn;
@@ -60,10 +61,6 @@ function gameLoop(){
     //     var stream = WatsonSpeech.SpeechToText.recognizeMicrophone({ // eslint-disable-line
     //       token: token, // use `access_token` as the parameter name if using an RC service
     //       outputElement: '#output' // CSS selector or DOM Element
-    //     });
-  
-    //     stream.on('error', function(err) {
-    //       console.log(err);
     //     });
 
     //     stream.on('data', data => {

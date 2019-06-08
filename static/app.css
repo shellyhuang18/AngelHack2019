@@ -1,0 +1,18 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.story {
+    display: inline-block;
+    width: 500px;
+    height: 200px;
+    background-color: cornflowerblue;
+    margin-top: 20px;
+    color: white;
+}
